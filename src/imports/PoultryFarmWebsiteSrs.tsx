@@ -1,11 +1,11 @@
 import svgPaths from "./svg-zu0xab1dii";
-import imgImageFreeRangeBrownEggs from "figma:asset/29f93b2e822f4130a21e5debf3e2317fd27b81b6.png";
-import imgImageWhiteEggs from "figma:asset/4a6169ff83e2a469a901ce5135596d7b47fe07d0.png";
-import imgImageOrganicDuckEggs from "figma:asset/9f17471608923d6707ac306ffbaa8d997f3b1a20.png";
-import imgImageBroilerChickens from "figma:asset/137f1d1956a4c4463078fdf662d4990c43e1f083.png";
-import imgImageRhodeIslandRedHens from "figma:asset/c62832584ceefba4ed90e4a8a0aee63d8e268101.png";
-import imgImagePlymouthRockChickens from "figma:asset/551e89ae00fd05786e1de8dae4348e21896dbe99.png";
-import imgImageGreenValleyFarm from "figma:asset/aed35520a2a0872b3df323072b0630b4609dd403.png";
+import imgImageFreeRangeBrownEggs from "@/assets/placeholder.png";
+import imgImageWhiteEggs from "@/assets/placeholder.png";
+import imgImageOrganicDuckEggs from "@/assets/placeholder.png";
+import imgImageBroilerChickens from "@/assets/placeholder.png";
+import imgImageRhodeIslandRedHens from "@/assets/placeholder.png";
+import imgImagePlymouthRockChickens from "@/assets/placeholder.png";
+import imgImageGreenValleyFarm from "@/assets/placeholder.png";
 
 function Icon() {
   return (

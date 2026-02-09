@@ -561,9 +561,9 @@ export default function App() {
             </div>
             <div>
               <h3 className="font-bold text-lg mb-3 text-[#f0b100]">Contact Info</h3>
-              <p className="text-gray-300 text-sm mb-2">📧 info@sendypoultry.farm</p>
-              <p className="text-gray-300 text-sm mb-2">📞 +1 (555) 123-4567</p>
-              <p className="text-gray-300 text-sm">📍 123 Farm Road, Countryside</p>
+              <p className="text-gray-300 text-sm mb-2">📧 enduranceoffeibea36@gmail.com</p>
+              <p className="text-gray-300 text-sm mb-2">📞 +233 053 690 9471</p>
+              <p className="text-gray-300 text-sm">📍 Abokobi new site</p>
             </div>
           </div>
           <div className="border-t border-gray-700 pt-6 text-center text-gray-400 text-sm">

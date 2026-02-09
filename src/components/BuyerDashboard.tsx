@@ -187,7 +187,7 @@ export function BuyerDashboard({ orders, onBack, customerEmail: initialEmail }: 
             </div>
             <div className="flex items-center gap-2">
               <Mail className="size-5" />
-              <span>info@sendypoultry.farm</span>
+              <span>enduranceoffeibea36@gmail.com</span>
             </div>
           </div>
         </div>

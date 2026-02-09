@@ -42,7 +42,7 @@ export function ContactPage() {
                 <div className="text-2xl">📍</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Address</h3>
-                  <p className="text-gray-600">123 Farm Road, Countryside, ST 12345</p>
+                  <p className="text-gray-600">Abokobi new site</p>
                 </div>
               </div>
 
@@ -50,9 +50,9 @@ export function ContactPage() {
                 <div className="text-2xl">📞</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Phone</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">+233 053 690 9471</p>
                   <a 
-                    href="tel:5551234567"
+                    href="tel:+233053690947"
                     className="text-stone-700 hover:text-stone-800 text-sm"
                   >
                     Call us now →
@@ -64,9 +64,9 @@ export function ContactPage() {
                 <div className="text-2xl">📧</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600">info@sendyfarm.com</p>
+                  <p className="text-gray-600">enduranceoffeibea36@gmail.com</p>
                   <a 
-                    href="mailto:info@sendyfarm.com"
+                    href="mailto:enduranceoffeibea36@gmail.com"
                     className="text-stone-700 hover:text-stone-800 text-sm"
                   >
                     Send email →
@@ -78,9 +78,9 @@ export function ContactPage() {
                 <div className="text-2xl">💬</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">WhatsApp</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">+233 053 690 9471</p>
                   <a 
-                    href="https://wa.me/5551234567"
+                    href="https://wa.me/233053690947"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-stone-700 hover:text-stone-800 text-sm"
@@ -170,7 +170,7 @@ export function ContactPage() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-transparent"
-                    placeholder="(555) 123-4567"
+                    placeholder="+233 0XX XXX XXXX"
                   />
                 </div>
 
@@ -208,7 +208,7 @@ export function ContactPage() {
           <div className="text-center text-gray-600">
             <div className="text-6xl mb-4">🗺️</div>
             <p className="text-lg">Map View</p>
-            <p className="text-sm">123 Farm Road, Countryside, ST 12345</p>
+            <p className="text-sm">Abokobi new site</p>
           </div>
         </div>
       </div>
